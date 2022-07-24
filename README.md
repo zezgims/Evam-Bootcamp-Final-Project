@@ -40,7 +40,7 @@ The project is started by running FinalProjectApplication.java.
    Request Body: 
    ```json
    {
-       "totalAmount": "200"
+       "totalAmount": 200
    }
    ```
    Response:
